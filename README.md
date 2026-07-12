@@ -166,3 +166,13 @@ Se quiser um visual com cores muito mais vivas, utilize a série de códigos **9
 ---
 
 **Dica técnica: Sempre mantenha os marcadores `\e[0m` no seu `PS1` para garantir que a cor do comando digitado não herde acidentalmente a cor do seu nome de usuário!**
+
+## 🤝 Contribuições e Feedback
+
+Se você gostou, deixe uma ⭐️ no repositório! Se encontrou algum bug ou tem sugestões de melhorias para o layout, sinta-se à livre para abrir uma **Issue** ou enviar um **Pull Request**.
+
+Criado com 💙 por [PalomaGLima](https://github.com/PalomaGLima).
+
+```
+
+```
