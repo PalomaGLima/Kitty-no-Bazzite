@@ -1,4 +1,4 @@
-### 🚀 Guia Completo de Instalação e Configuração do Kitty Terminal
+# 📊 Guia Completo de Instalação e Configuração do Kitty Terminal
 
 Este guia prático ensina passo a passo como instalar o terminal Kitty, configurar o Fastfetch com imagens personalizadas, desativar o banner padrão do Bazzite e customizar as cores do prompt do seu Bash.
 
